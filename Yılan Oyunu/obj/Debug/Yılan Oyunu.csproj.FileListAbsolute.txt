@@ -1,0 +1,11 @@
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe.config
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.exe
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\bin\Debug\Yılan Oyunu.pdb
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csprojAssemblyReference.cache
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Form1.resources
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Properties.Resources.resources
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.GenerateResource.cache
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.exe
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan Oyunu.pdb
+C:\Users\Tolga ECEVİT\Desktop\Yazılım Geliştirme Uzmanlığı\Nitelikli Bilişim Uzmanı Yetiştirme Programı\Yılan Oyunu\Yılan Oyunu\obj\Debug\Yılan_Oyunu.Form2.resources
